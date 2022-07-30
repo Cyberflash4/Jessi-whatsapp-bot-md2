@@ -4,7 +4,7 @@
 
 
 
-<img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/Cyberflash-07-30" alt="nz" width="350"/>
 </p>
 
 
@@ -21,7 +21,7 @@
 
 
 
-<b><h1>Deploy Now ♨️</b></h1>
+<b><h1>Deploy</b></h1>
    <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
@@ -49,7 +49,7 @@
 
 ----
 
-> <a href="http://wa.me/+94779529221?text=හායි+🙈🌸+වද🪄+දෙන්න+ඔයාට🥰+githb+එකෙන්+INBOX+🤭+ආවෙ+🪄❢❢_"><img src="https://img.shields.io/badge/Contact-White Shadow-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="http://wa.me/+94761346248"><img src="https://img.shields.io/badge/Contact-White Shadow-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 
 ----
@@ -129,7 +129,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 ____________________________________________
 
-> *||Copyright © 2021 All right reserved||*
+> *||CYBER FLASH MD|*
 
 ____________________________________________
 
