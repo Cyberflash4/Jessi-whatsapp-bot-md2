@@ -1,6 +1,6 @@
 ### MS.Jessica 
 
-### Multi Device  [ ❑ 𝗩𝗜𝗣 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 ❑ ]  Unlimited Version (24 hors Activation )
+### Multi Device  [CYBER FLASH]  Unlimited Version (24 hors Activation )
 
 
 
