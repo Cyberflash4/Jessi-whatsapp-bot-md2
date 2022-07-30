@@ -1,6 +1,6 @@
-### MS.Jessica 
+### CYBER FLASH
 
-### Multi Device  [CYBER FLASH]  Unlimited Version (24 hors Activation )
+### Multi Device  [CYBER FLASH](24 hors Activation )
 
 
 
@@ -16,7 +16,7 @@
  <b><h1>Scan Qr Code</b></h1>
  
 
-<a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png">
+<a href="https://replit.com/cyberflash/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png">
 <br>
 
 
